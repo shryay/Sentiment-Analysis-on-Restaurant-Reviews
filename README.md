@@ -22,18 +22,6 @@ This project implements sentiment analysis using Natural Language Processing (NL
 - **Platform:**
   - Jupyter Notebook or any Python environment
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/sentiment-analysis.git
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. Open the Jupyter Notebook or Python environment.
